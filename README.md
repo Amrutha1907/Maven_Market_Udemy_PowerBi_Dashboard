@@ -3,6 +3,7 @@ This report was done as a course exercise by Mahesh Nanavare during 'Microsoft P
 
 
 MODEL VIEW:
+![Model_View](https://github.com/Amrutha1907/Maven_Market_Udemy_PowerBi_Dashboard/assets/101463507/916aabf5-bce6-4ee8-8fc0-97ed7595c87e)
 
 
 
