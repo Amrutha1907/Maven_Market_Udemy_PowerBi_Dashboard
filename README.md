@@ -9,3 +9,7 @@ MODEL VIEW:
 
 DASHBOARD:
 
+![Dashboard](https://github.com/Amrutha1907/Maven_Market_Udemy_PowerBi_Dashboard/assets/101463507/5dc7550f-6498-4c10-aede-755b02dcb4ff)
+
+
+
